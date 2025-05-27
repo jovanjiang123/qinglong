@@ -79,3 +79,6 @@
 
 **您访问本仓库或下载资源即视为已阅读并同意本声明全部条款。若不同意，请立即关闭页面并清除所有本地副本。**
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jovanjiang123/qinglong&type=Date)](https://star-history.com/#jovanjiang123/qinglong&Date)
